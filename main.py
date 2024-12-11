@@ -4,7 +4,7 @@ import matplotlib.image as mpimg
 import sounddevice as sd
 from scipy.io import wavfile
 from scipy import signal
-
+# IZMENA!
 # %%
 start_t = -8
 d_t = 0.01
